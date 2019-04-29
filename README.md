@@ -9,6 +9,6 @@
 
 Please install dependencies using `pip install -r requirements.txt`.
 
-FR_Webcam = Run facial recognition in real-time using OpenCV webcam.
+FR_Webcam = Run facial recognition in real-time using OpenCV webcam.  
 FR_Video = Convert your own video and run facial recognition on it.
 
