@@ -11,7 +11,7 @@ Please install dependencies using `pip install -r requirements.txt`.
 
 ## Optional:
 I added these if you wanted to use face recognition on your own video or test
-it on your own webcam:
+it on your own webcam:  
 FR_Webcam = Run facial recognition in real-time using OpenCV webcam.  
 FR_Video = Convert your own video and run facial recognition on it.
 
